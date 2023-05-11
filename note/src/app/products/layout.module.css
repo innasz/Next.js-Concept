@@ -1,0 +1,13 @@
+.nav {
+  padding: 16px;
+  margin-top: 8px;
+  border-bottom: 1px solid salmon;
+}
+
+.nav a {
+  padding: 0 8px;
+}
+
+.product {
+  padding: 16px;
+}
